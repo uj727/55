@@ -1,1 +1,1 @@
-kmeans練習
+kmeans練習 有點混亂
